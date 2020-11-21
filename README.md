@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+CSS Beautifier/Minifier
+=======================
 
-You can use the [editor on GitHub](https://github.com/DevUtilsApp/cssbeautifier.app/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Beautify or minify your CSS source without online tools. [DevUtils.app](https://devutils.app) allows you to quickly format, beautify or minify a CSS source code without any internet connection. It works with incomplete CSS and also syntax highlight the source code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img src="https://devutils.app/assets/css-beautifier-light.png" alt="DevUtils.app: CSS Beautifier/Minifier macOS app"/>
+  <br/>
+  <a href="https://devutils.app/">🚀  Download</a> | <a href="https://devutils.app/demo">🎬  Demo & Screenshots</a> | <a href="https://github.com/DevUtilsApp/DevUtils-app">📝  View source</a>
+</p>
 
-### Markdown
+Quickly format, beautify, or minify a CSS source
+------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can start to format, beautify or minify a CSS source from anywhere in your macOS (terminal, in email, web browser,...). Activate the app by:
 
-```markdown
-Syntax highlighted code block
+* Copy text ► Press ⌃⌥⌘Space `(Or your own customized hotkey, up to you)`
+* Copy text ► Click to icon <img src="https://devutils.app/menu-icon-dark.png" alt="DevUtils.app status bar icon" width="28px" /> in the status bar
+* Select text ► Right-click ► "Inspect in DevUtils.app" `(This menu appears after you install the app)`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Input
+-----
 
-1. Numbered
-2. List
+Enter your CSS source in the left input textbox. You can also use the content of your clipboard as input, or load the CSS from a file in your computer.
 
-**Bold** and _Italic_ and `Code` text
+Output
+------
 
-[Link](url) and ![Image](src)
-```
+The tool will render the formatted source in the right text box. You can click "Copy" to copy the formatted source into your clipboard. The formatted source is also syntax highlighted.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Options
+-------
 
-### Jekyll Themes
+Select the format you want in the select box in the top right corner. The currently supported formats are:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevUtilsApp/cssbeautifier.app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*   2 spaces
+*   4 spaces
+*   1 tab
+*   Minified

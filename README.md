@@ -4,7 +4,7 @@ CSS Beautifier/Minifier
 Beautify or minify your CSS source without online tools. [DevUtils.app](https://devutils.app) allows you to quickly format, beautify or minify a CSS source code without any internet connection. It works with incomplete CSS and also syntax highlight the source code.
 
 <p align="center">
-  <img src="https://devutils.app/assets/css-beautifier-light.png" alt="DevUtils.app: CSS Beautifier/Minifier macOS app"/>
+  <img src="https://devutils.app/assets/css-beautifier-dark.png" alt="DevUtils.app: CSS Beautifier/Minifier macOS app"/>
   <br/>
   <a href="https://devutils.app/">🚀  Download</a> | <a href="https://devutils.app/demo">🎬  Demo & Screenshots</a> | <a href="https://github.com/DevUtilsApp/DevUtils-app">📝  View source</a>
 </p>
